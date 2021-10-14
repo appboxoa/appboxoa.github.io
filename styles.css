@@ -151,7 +151,7 @@ text-align: center;
     color: #fff;
     border: none;
     border-radius: 30px;
-    width: 400px;
+    width: 350px;
     height: 50px;
     margin: 10px;
     font-size: 20px;
@@ -161,3 +161,142 @@ text-align: center;
        background-image: linear-gradient(0deg, #08AEEA 0, #2AF598 100%);
 
 }
+.button3 {
+    text-transform: uppercase;
+    background-color: #0ee077;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 21px;
+        background-image: linear-gradient(147deg, #FFE53B 0, #FF2525 74%);
+
+}
+#popupxx {
+    position: absolute;
+    top: -30px;
+    color: #808080;
+    font-size: 15px;
+    
+}
+.passx {
+    color: white;
+    background-image: linear-gradient(0deg, #00c6fb 0%, #005bea 100%);
+    border: none;
+    border-radius: 30px;
+    font-size: 12px;
+    width: 150px;
+    height: 16px;
+    margin: 10px;
+text-align: center;
+}
+
+.badge {
+  -webkit-box-shadow: 0 5px 13px 0 rgba(0, 0, 0, .1);
+  box-shadow: 0 5px 13px 0 rgba(0, 0, 0, .1);
+  border-radius: 100px;
+  border: none;
+  padding: 5px;
+  padding-left: 16px;
+  padding-right: 16px;
+    width: 270px;
+    height: 30px;
+    margin: 10px;
+    
+}
+
+.badge-primary {
+  background-image: linear-gradient(19deg, #21D4FD 0, #B721FF 100%);
+}
+
+.badge-secondary {
+  background-image: linear-gradient(62deg, #8EC5FC 0, #E0C3FC 100%);
+}
+.badge-success {
+  background-image: linear-gradient(-90deg, #08AEEA 0, #2AF598 100%);
+}
+.badge-danger {
+  background-image: linear-gradient(147deg, #ff0844 0%, #ffb199 100%);
+}
+.badge-warning {
+  background-image: linear-gradient(147deg, #FFE53B 0, #FF2525 74%);
+  color:#fff;
+}
+.badge-info {
+  background-image: linear-gradient(147deg, #00c6fb 0%, #005bea 100%);
+  color:#fff;
+}
+
+.badge-dark {
+  background-image: linear-gradient(-225deg, #537895 0, #09203F 100%);
+  color: #fff;
+}
+.button4 {
+    text-transform: uppercase;
+    background-color: #0ee077;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 21px;
+        background-image: linear-gradient(19deg, #21D4FD 0, #B721FF 100%);
+}
+.button5 {
+    text-transform: uppercase;
+    background-color: #0ee077;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 21px;
+       background-image: linear-gradient(62deg, #8EC5FC 0, #E0C3FC 100%);
+
+}
+.button6 {
+    text-transform: uppercase;
+    background-color: #0ee077;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 21px;
+         background-image: linear-gradient(147deg, #ff0844 0%, #ffb199 100%);
+
+}
+.button7 {
+    text-transform: uppercase;
+    background-color: #0ee077;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 21px;
+        background-image: linear-gradient(147deg, #00c6fb 0%, #005bea 100%);
+
+}
+
